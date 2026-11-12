@@ -4,4 +4,4 @@ This repository hosts the privacy policy for **InterCom-Office**, a Windows app 
 
 Read the policy here: [Link Here](https://github.com/Ka-Chakra/intercom-office-privacy/)
 
-Questions: kachakra1997@gmail.com
+Questions: kachakra1997@gmail.com, kachakra@outlook.com
